@@ -10,8 +10,8 @@ This is lot of helpful.
 
 apt update
 apt upgrade -y
-pkg install python -y
-git clone https://github.com/T4Termux/Duck_Droid.git
+pkg install python3 -y
+
 
 ```
 
@@ -26,4 +26,4 @@ python3 Duck_Droid.py
 
 # Youtube Channel.
 
-https://youtube.com/c/T4Termux
+https://youtube.com/c/wolfyy2009
